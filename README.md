@@ -21,10 +21,10 @@ ChatGPT中文镜像是指将ChatGPT的功能和服务通过其他网络服务器
 - [www.openai-asia.com](www.openai-asia.com)
 
   需要自己提供 key 的：
-- chat-shared.zhile.io
-- www.aihu003.me
-- gpt.dizent.cn
-- chat.okis.dev/zh-CN
+- [chat-shared.zhile.io](chat-shared.zhile.io)
+- [www.aihu003.me](www.aihu003.me)
+- [gpt.dizent.cn](gpt.dizent.cn)
+- [chat.okis.dev](chat.okis.dev/zh-CN0
 
 这些网站提供稳定的访问以及支持全系列模型，是体验ChatGPT的不错选择。
 
